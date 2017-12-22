@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1474822328 source:c:\users\ahmad\desktop\oopdassignment2\leave.cpp
+	<iostream>
+	<string>
+	"Leave.h"
+	"Staff.h"
+
+1474847225 c:\users\ahmad\desktop\oopdassignment2\leave.h
+	<iostream>
+	<string>
+	"Staff.h"
+
+1474848168 source:c:\users\ahmad\desktop\oopdassignment2\staff.cpp
+	<iostream>
+	<string>
+	"Staff.h"
+
+1474848199 c:\users\ahmad\desktop\oopdassignment2\staff.h
+	<iostream>
+	<string>
+
+1474858281 source:c:\users\ahmad\desktop\oopdassignment2\main.cpp
+	"Staff.h"
+	"Leave.h"
+	"LinkedList.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+
+1474811133 c:\users\ahmad\desktop\oopdassignment2\linkedlist.h
+	"ListInterface.h"
+	"Node.h"
+	"PrecondViolatedExcep.h"
+	"LinkedList.cpp"
+
+1474811143 c:\users\ahmad\desktop\oopdassignment2\listinterface.h
+
+1474744034 c:\users\ahmad\desktop\oopdassignment2\node.h
+	"Node.cpp"
+
+1474743575 c:\users\ahmad\desktop\oopdassignment2\node.cpp
+	"Node.h"
+	<cstddef>
+
+1450342802 c:\users\ahmad\desktop\oopdassignment2\precondviolatedexcep.h
+	<stdexcept>
+	<string>
+
+1474811129 c:\users\ahmad\desktop\oopdassignment2\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<cassert>
+
+1450342802 source:c:\users\ahmad\desktop\oopdassignment2\precondviolatedexcep.cpp
+	"PrecondViolatedExcep.h"
+
+1474822328 source:c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\leave.cpp
+	<iostream>
+	<string>
+	"Leave.h"
+	"Staff.h"
+
+1474847225 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\leave.h
+	<iostream>
+	<string>
+	"Staff.h"
+
+1474848199 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\staff.h
+	<iostream>
+	<string>
+
+1474858281 source:c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\main.cpp
+	"Staff.h"
+	"Leave.h"
+	"LinkedList.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<vector>
+
+1474811133 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\linkedlist.h
+	"ListInterface.h"
+	"Node.h"
+	"PrecondViolatedExcep.h"
+	"LinkedList.cpp"
+
+1474811143 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\listinterface.h
+
+1474744034 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\node.h
+	"Node.cpp"
+
+1474743575 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\node.cpp
+	"Node.h"
+	<cstddef>
+
+1450342802 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\precondviolatedexcep.h
+	<stdexcept>
+	<string>
+
+1474811129 c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<cassert>
+
+1450342802 source:c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\precondviolatedexcep.cpp
+	"PrecondViolatedExcep.h"
+
+1474848168 source:c:\users\ahmad\desktop\tc02_1131121467_ahmad_hamdan\staff.cpp
+	<iostream>
+	<string>
+	"Staff.h"
+
